@@ -1,0 +1,255 @@
+ 
+.HeadBody {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #000099; FONT-FAMILY: Verdana , Tahoma
+}
+.HeadBodySub {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000099; FONT-FAMILY: Verdana , Tahoma
+}
+.DetailLogin {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+.DetailLogin2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+.DetailBody {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+.Gradient {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Gradient( GradientType=1, StartColorStr=#FFFFFF, EndColorStr=#E0E0E0 ); PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: #000099; PADDING-TOP: 2px; BACKGROUND-COLOR: #ecf3fb
+}
+.Gradient2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Gradient( GradientType=1, StartColorStr=#E0E0E0, EndColorStr=#FFFFFF ); PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: #000099; PADDING-TOP: 2px; BACKGROUND-COLOR: #ecf3fb
+}
+.Gradientmenu {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FILTER: progid:DXImageTransform.Microsoft.Gradient( GradientType=1, StartColorStr=#333366, EndColorStr=#FFFFFF ); PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: #000099; PADDING-TOP: 2px; BACKGROUND-COLOR: #ecf3fb
+}
+.HeadLogin {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000099; FONT-FAMILY: Verdana , Tahoma
+}
+.FalseLogin {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-FAMILY: _Tahoma , Verdana
+}.FontMenu_big {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: _Tahoma , Verdana
+}
+.FontMenu {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: _Tahoma , Verdana
+}.FontMenuLogin {
+	FONT-SIZE: 10pt; COLOR: #FF0000; FONT-FAMILY: _Tahoma , Verdana
+}
+.FontBalckMenu2 {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+
+.FontNormal {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+.Fontheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #FF0000; FONT-FAMILY: _Tahoma , Verdana
+}
+.FontBig {
+	FONT-SIZE: 16pt; COLOR: #FFFFFF; FONT-FAMILY: _Tahoma , Verdana
+}.FontBigz {
+	FONT-SIZE: 19pt; COLOR: #ff0a0a; FONT-FAMILY: _Tahoma , Verdana
+}.FontBig2 {
+	FONT-SIZE: 13pt; COLOR: #FFFFFF; FONT-FAMILY: _Tahoma , Verdana
+}
+.FontBlack {
+	FONT-SIZE: 10pt; COLOR: #412d0d; FONT-FAMILY: _Tahoma , Verdana
+}
+.LeftMenuBartop {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: Tahoma, CordiaUPC
+}
+.LeftMenuBar A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.LeftMenuBar A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.LeftMenuBar A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.LeftMenuBar {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, CordiaUPC
+}
+.LeftMenuBar A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.LeftMenuBar A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.LeftMenuBar A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.TopMenuBarRight {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: _Tahoma , Verdana
+}
+.TopMenuBarRight A {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+.TopMenuBarRight A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.TopMenuBarRight A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.BodyLogin {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #000099; FONT-FAMILY: Verdana , Tahoma
+}
+.unnamed1 {
+	FONT-SIZE: 12px; FONT-FAMILY: "Tahoma", Tahoma, sans-serif
+}
+A:link {
+	FONT-SIZE: 12px; FONT-FAMILY: "Tahoma", AngsanaUPC, CordiaUPC; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #412d0d; FONT-FAMILY: "Tahoma", AngsanaUPC, CordiaUPC; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #412d0d; FONT-FAMILY: "Tahoma", AngsanaUPC, CordiaUPC; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #412d0d; FONT-FAMILY: "Tahoma", AngsanaUPC, CordiaUPC; TEXT-DECORATION: none
+}
+
+.listbox1 {
+	WIDTH: 300px
+}
+.listboxdepart {
+	WIDTH: 200px
+}
+.textboxcenter {
+	TEXT-ALIGN: center
+}
+.BodyLogin2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #000099; FONT-FAMILY: Verdana , Tahoma; TEXT-ALIGN: center
+}
+table.grid {
+ 
+	color: #333;
+}
+
+
+
+table.grid a {
+	text-decoration: none;
+	border-bottom:0px ;
+	color: #412d0d;
+	font-weight: bold;
+}
+
+ table.grid tr th a {
+	color: #412d0d;
+	border-bottom: 0px dotted #369;
+}
+
+table.grid tr th a:hover {
+	color: #fff;
+	background: #369;
+}
+
+table.grid thead tr th {
+	text-transform: uppercase;
+	background: #e2e2e2;
+	font-size:9px;
+}
+
+table.grid tfoot tr th, table.grid tfoot tr td {
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	
+}
+
+table.grid td{
+	border-right:1px dotted #ccc;
+	border-bottom: 1px dotted #ccc;
+ 
+	FONT-SIZE:11px;
+}
+
+table.grid th {
+	border-right: 1px dotted #ccc;
+	border-bottom: 1px dotted #ccc;
+ 
+	font-size:11px;
+	
+}
+
+table.grid tr.odd th, table.grid tr.odd td {
+	background: #ccc;
+}
+
+
+
+table.grid_index {
+	border-left: 1px solid #ccc;
+	border-top: 0px solid #ccc; 
+		border-right: 1px dotted #ccc;
+	color: #333;
+}
+
+
+
+table.grid_index a {
+	text-decoration: none;
+	border-bottom: 1px ;
+	color: #412d0d;
+	font-weight: bold;
+}
+
+#table.grid_index a:hover {
+#	text-decoration: none;
+#	color: #fff;
+#	background: #f60;
+#}
+
+table.grid_index tr th a {
+	color: #412d0d;
+	border-bottom: 1px dotted #369;
+}
+
+table.grid_index tr th a:hover {
+	color: #fff;
+	background: #369;
+}
+
+table.grid_index thead tr th {
+	text-transform: uppercase;
+	background: #e2e2e2;
+	font-size:9px;
+}
+
+table.grid_index tfoot tr th, table.grid tfoot tr td {
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	
+}
+
+table.grid_index td{
+	border-right:1px dotted #ccc;
+ 
+	padding: 5px;
+	FONT-SIZE:11px;
+}
+
+table.grid_index th {
+	border-right: 0px dotted #ccc;
+	border-bottom: 1px  ;
+	padding: 5px;
+	font-size:11px;
+	
+}
+
+table.grid_index tr.odd th, table.grid_index tr.odd td {
+	background: #ccc;
+}
+span.info {
+display:block;
+margin:15px 0;
+padding:10px 10px 10px 65px;
+background:url("../images/search.png") no-repeat scroll 10px 50% #D8E5F8;
+border-bottom:3px solid #629DE3;
+border-top:3px solid #629DE3;
+color:#0055BB;
+}

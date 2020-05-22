@@ -1,0 +1,75 @@
+ 
+table.green {
+  border-collapse: collapse;
+  border: 1px solid #03476F;
+  font: normal 13px verdana, arial, helvetica, sans-serif;
+  color: #363636;
+  background: #dcfeff;
+  }
+table.green caption {
+  text-align: center;
+  font: bold 18px arial, helvetica, sans-serif;
+  background: transparent;
+  padding:6px 4px 8px 0px;
+  color: #03476F;
+  text-transform: uppercase;
+  }
+table.green td, th {
+  border: 1px dotted #03476F;
+  padding: .4em;
+  color: #363636;
+  }
+
+table.green thead th, tfoot th {
+  font: bold 11px verdana, arial, helvetica, sans-serif;
+  border: 1px solid #03476F;;
+  text-align: left;
+  background: #4591AD;
+  color: #FFFFFF;
+  padding-top:3px;
+  }
+table.green tbody td a {
+  background: transparent;
+  text-decoration: none;
+  color: #363636;
+  }
+table.green tbody td a:hover {
+  background: #C2F64D;
+  color: #363636;
+  }
+table.green tbody th a {
+  font: normal 11px verdana, arial, helvetica, sans-serif;
+  background: transparent;
+  text-decoration: none;
+  font-weight:normal;
+  color: #363636;
+  }
+table.green tbody th a:hover {
+  background: transparent;
+  color: #363636;
+  }
+table.green tbody th, tbody td {
+  vertical-align: top;
+  text-align: left;
+  }
+table.green tfoot td {
+  border: 1px solid #03476F;
+  background: #4591AD;
+  padding-top:3px;
+  color: #FFFFFF;
+  }
+.odd {
+  background: #AEE239;
+  }
+table.green tbody tr:hover {
+  background: #FFD800;
+  border: 1px solid #03476F;
+  color: #FFFFFF;
+  }
+table.green tbody tr:hover th,
+table.green tbody tr.odd:hover th {
+  background: #FFD800;
+  color: #FFFFFF;
+  }
+
+
